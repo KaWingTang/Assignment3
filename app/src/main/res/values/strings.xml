@@ -1,0 +1,32 @@
+<resources>
+    <string name="name1">Albert Einstein</string>
+    <string name="name2">Maya Angelou</string>
+    <string name="name3">Nelson Mandela</string>
+    <string name="name4">Oprah Winfrey</string>
+    <string name="name5">Steve Jobs</string>
+    <string name="name6">Malala Yousafzai</string>
+    <string name="name7">Mahatma Gandhi</string>
+    <string name="name8">Frida Kahlo</string>
+    <string name="name9">Martin Luther King Jr.</string>
+    <string name="name10">Coco Chanel</string>
+    <string name="name11">Leonardo da Vinci</string>
+    <string name="name12">Rosa Parks</string>
+    <string name="name13">Marie Curie</string>
+    <string name="name14">Walt Disney</string>
+    <string name="name15">Amelia Earhart</string>
+    <string name="name16">Vincent van Gogh</string>
+    <string name="name17">Jane Goodall</string>
+    <string name="name18">Albert Schweitzer</string>
+    <string name="name19">Isaac Newton</string>
+    <string name="name20">J.K. Rowling</string>
+    <string name="name21">Helen Keller</string>
+    <string name="name22">Neil Armstrong</string>
+    <string name="name23">Mother Teresa</string>
+    <string name="name24">Stephen Hawking</string>
+    <string name="name25">Eleanor Roosevelt</string>
+    <string name="name26">William Shakespeare</string>
+    <string name="name27">Marie Antoinette</string>
+    <string name="name28">Nikola Tesla</string>
+    <string name="name29">Anne Frank</string>
+    <string name="name30">Pablo Picasso</string>
+    </resources>
